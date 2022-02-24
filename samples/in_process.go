@@ -23,7 +23,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/scaleoutsean/gofuse"
+	"github.com/scaleoutsean/fusego"
 	"github.com/jacobsa/ogletest"
 	"github.com/jacobsa/timeutil"
 )

@@ -17,7 +17,7 @@ package fuseutil
 import (
 	"context"
 
-	"github.com/scaleoutsean/gofuse"
+	"github.com/scaleoutsean/fusego"
 	"github.com/scaleoutsean/fusego/fuseops"
 )
 

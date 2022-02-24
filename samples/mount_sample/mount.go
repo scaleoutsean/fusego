@@ -26,7 +26,7 @@ import (
 	"runtime"
 	"syscall"
 
-	"github.com/scaleoutsean/gofuse"
+	"github.com/scaleoutsean/fusego"
 	"github.com/scaleoutsean/fusego/samples/flushfs"
 )
 

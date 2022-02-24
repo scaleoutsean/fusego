@@ -20,7 +20,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/scaleoutsean/gofuse"
+	"github.com/scaleoutsean/fusego"
 )
 
 // Unmount the file system mounted at the supplied directory. Try again on
