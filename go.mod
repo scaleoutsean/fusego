@@ -1,4 +1,4 @@
-module github.com/kahing/fusego
+module github.com/scaleoutsean/fusego
 
 go 1.17
 
