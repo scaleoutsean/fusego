@@ -29,7 +29,7 @@ import (
 	"time"
 
 	fallocate "github.com/detailyang/go-fallocate"
-	"github.com/jacobsa/fuse"
+	"github.com/scaleoutsean/gofuse"
 	"github.com/scaleoutsean/fusego/fusetesting"
 	"github.com/scaleoutsean/fusego/samples"
 	"github.com/scaleoutsean/fusego/samples/memfs"

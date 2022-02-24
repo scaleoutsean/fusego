@@ -26,7 +26,7 @@ import (
 	"runtime"
 	"syscall"
 
-	"github.com/jacobsa/fuse"
+	"github.com/scaleoutsean/gofuse"
 	"github.com/scaleoutsean/fusego/samples/flushfs"
 )
 

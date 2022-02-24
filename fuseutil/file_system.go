@@ -19,7 +19,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/jacobsa/fuse"
+	"github.com/scaleoutsean/fusego"
 	"github.com/scaleoutsean/fusego/fuseops"
 )
 

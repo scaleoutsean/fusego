@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jacobsa/fuse"
+	"github.com/scaleoutsean/gofuse"
 	"github.com/scaleoutsean/fusego/fuseops"
 	"github.com/scaleoutsean/fusego/fuseutil"
 	"github.com/jacobsa/timeutil"
