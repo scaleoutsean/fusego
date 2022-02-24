@@ -30,9 +30,9 @@ import (
 
 	fallocate "github.com/detailyang/go-fallocate"
 	"github.com/jacobsa/fuse"
-	"github.com/jacobsa/fuse/fusetesting"
-	"github.com/jacobsa/fuse/samples"
-	"github.com/jacobsa/fuse/samples/memfs"
+	"github.com/scaleoutsean/fusego/fusetesting"
+	"github.com/scaleoutsean/fusego/samples"
+	"github.com/scaleoutsean/fusego/samples/memfs"
 	. "github.com/jacobsa/oglematchers"
 	. "github.com/jacobsa/ogletest"
 	"golang.org/x/sys/unix"

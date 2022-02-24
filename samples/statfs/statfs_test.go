@@ -26,10 +26,10 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/jacobsa/fuse/fuseops"
-	"github.com/jacobsa/fuse/fuseutil"
-	"github.com/jacobsa/fuse/samples"
-	"github.com/jacobsa/fuse/samples/statfs"
+	"github.com/scaleoutsean/fusego/fuseops"
+	"github.com/scaleoutsean/fusego/fuseutil"
+	"github.com/scaleoutsean/fusego/samples"
+	"github.com/scaleoutsean/fusego/samples/statfs"
 	. "github.com/jacobsa/ogletest"
 )
 

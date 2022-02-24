@@ -20,7 +20,7 @@ import (
 	"sync"
 
 	"github.com/jacobsa/fuse"
-	"github.com/jacobsa/fuse/fuseops"
+	"github.com/scaleoutsean/fusego/fuseops"
 )
 
 // An interface with a method for each op type in the fuseops package. This can

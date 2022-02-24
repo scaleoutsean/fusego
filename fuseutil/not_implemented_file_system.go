@@ -18,7 +18,7 @@ import (
 	"context"
 
 	"github.com/jacobsa/fuse"
-	"github.com/jacobsa/fuse/fuseops"
+	"github.com/scaleoutsean/fusego/fuseops"
 )
 
 // A FileSystem that responds to all ops with fuse.ENOSYS. Embed this in your

@@ -21,8 +21,8 @@ import (
 	"sync"
 
 	"github.com/jacobsa/fuse"
-	"github.com/jacobsa/fuse/fuseops"
-	"github.com/jacobsa/fuse/fuseutil"
+	"github.com/scaleoutsean/fusego/fuseops"
+	"github.com/scaleoutsean/fusego/fuseutil"
 )
 
 var rootAttrs = fuseops.InodeAttributes{

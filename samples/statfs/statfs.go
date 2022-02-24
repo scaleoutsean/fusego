@@ -20,8 +20,8 @@ import (
 	"sync"
 
 	"github.com/jacobsa/fuse"
-	"github.com/jacobsa/fuse/fuseops"
-	"github.com/jacobsa/fuse/fuseutil"
+	"github.com/scaleoutsean/fusego/fuseops"
+	"github.com/scaleoutsean/fusego/fuseutil"
 )
 
 // A file system that allows orchestrating canned responses to statfs ops, for

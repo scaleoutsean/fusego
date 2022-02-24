@@ -27,7 +27,7 @@ import (
 	"syscall"
 
 	"github.com/jacobsa/fuse"
-	"github.com/jacobsa/fuse/samples/flushfs"
+	"github.com/scaleoutsean/fusego/samples/flushfs"
 )
 
 var fType = flag.String("type", "", "The name of the samples/ sub-dir.")
@@ -107,7 +107,7 @@ func main() {
 	flag.Parse()
 
 	// Allow parallelism in the file system implementation, to help flush out
-	// bugs like https://github.com/jacobsa/fuse/issues/4.
+	// bugs like https://github.com/scaleoutsean/fusego/issues/4.
 	runtime.GOMAXPROCS(2)
 
 	// Grab the file to signal when ready.

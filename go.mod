@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/detailyang/go-fallocate v0.0.0-20180908115635-432fa640bd2e
-	github.com/jacobsa/fuse v0.0.0-20220214191219-c4197873da0d
+	// github.com/github.com/scaleoutsean/fusego 521540c7d9e4cc1abd6fd83cadf5e9f2b3a14bf9
 	github.com/jacobsa/oglematchers v0.0.0-20150720000706-141901ea67cd
 	github.com/jacobsa/ogletest v0.0.0-20170503003838-80d50a735a11
 	github.com/jacobsa/syncutil v0.0.0-20180201203307-228ac8e5a6c3
